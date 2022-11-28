@@ -1,7 +1,7 @@
 package coffeecorner.service;
 
-import entities.OrderRow;
-import entities.ReceiptType;
+import coffeecorner.entities.OrderRow;
+import coffeecorner.entities.ReceiptType;
 
 import java.math.BigDecimal;
 import java.util.Collection;

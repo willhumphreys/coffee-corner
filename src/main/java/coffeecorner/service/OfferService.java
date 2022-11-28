@@ -1,9 +1,9 @@
 package coffeecorner.service;
 
-import entities.Item;
-import entities.OrderRow;
-import entities.ProductType;
-import entities.ReceiptType;
+import coffeecorner.entities.Item;
+import coffeecorner.entities.OrderRow;
+import coffeecorner.entities.ProductType;
+import coffeecorner.entities.ReceiptType;
 
 import java.math.BigDecimal;
 import java.util.LinkedHashMap;
@@ -12,8 +12,8 @@ import java.util.Map;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import static entities.ReceiptType.BONUS;
-import static entities.ReceiptType.STAMP;
+import static coffeecorner.entities.ReceiptType.BONUS;
+import static coffeecorner.entities.ReceiptType.STAMP;
 import static java.lang.String.format;
 import static java.math.BigDecimal.ZERO;
 import static java.util.stream.Collectors.groupingBy;

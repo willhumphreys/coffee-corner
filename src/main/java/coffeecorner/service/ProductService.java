@@ -1,8 +1,8 @@
 package coffeecorner.service;
 
 import coffeecorner.repo.ProductRepo;
-import entities.Item;
-import entities.ProductType;
+import coffeecorner.entities.Item;
+import coffeecorner.entities.ProductType;
 
 import java.math.BigDecimal;
 import java.util.List;

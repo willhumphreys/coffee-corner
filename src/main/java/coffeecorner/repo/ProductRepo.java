@@ -1,6 +1,6 @@
 package coffeecorner.repo;
 
-import entities.Item;
+import coffeecorner.entities.Item;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -4,8 +4,8 @@ import coffeecorner.service.OfferService;
 import coffeecorner.service.OrderService;
 import coffeecorner.service.PrintService;
 import coffeecorner.service.ProductService;
-import entities.OrderRow;
-import entities.ReceiptType;
+import coffeecorner.entities.OrderRow;
+import coffeecorner.entities.ReceiptType;
 
 import java.util.Arrays;
 import java.util.List;

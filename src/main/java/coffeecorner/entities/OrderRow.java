@@ -1,4 +1,4 @@
-package entities;
+package coffeecorner.entities;
 
 import java.math.BigDecimal;
 import java.util.Objects;

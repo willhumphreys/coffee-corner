@@ -1,4 +1,4 @@
-package entities;
+package coffeecorner.entities;
 
 public enum ProductType {
 
